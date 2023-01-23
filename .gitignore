@@ -1,0 +1,6 @@
+lightning_logs/
+model_weight/
+__pycache__/
+datasets/
+train_log/
+test_codes/
